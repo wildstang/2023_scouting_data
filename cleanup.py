@@ -21,7 +21,7 @@ for filename in os.listdir(dir):
             obj = json.load(f)
 
             # replace values
-            if not isinstance(obj, list):
+            if not isinstance(obj, list) and not isinstance(obj, str):
                 # remove school and grad year from student IDs
                 if 'meta_scouter_id' in obj.keys():
                     obj['meta_scouter_id'] -= obj['meta_scouter_id'] // 1000 * 1000
