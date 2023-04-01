@@ -13,8 +13,8 @@ This repo contains data collected with WildRank 2 during the official competitio
 | Event                         | Version |
 | ----------------------------- | ------- |
 | Midwest Regional              | 2.1.1   |
-| Seven Rivers Regional         | 2.2.0   |
-| Championship                  |         |
+| Seven Rivers Regional         | 2.2.1   |
+| Championship                  | 2.3.0   |
 
 ## How do I read this data?
 
