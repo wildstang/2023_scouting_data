@@ -8,13 +8,13 @@ WildRank scouting data collected during our 2023 Charged Up competitions.
 
 ### Application Versions
 
-This repo contains data collected with WildRank 2 during the official competition season. The versions or Git hashes of the app used to collect the data can be found below. The data collect with version 2 should be compatible with any version 2 release of the app.
+This repo contains data collected with WildRank 2 during the official competition season. The versions or Git hashes of the app used to collect the data can be found below. Any data collected with version 2 should be compatible with any version 2 release of the app.
 
 | Event                         | Version |
 | ----------------------------- | ------- |
 | Midwest Regional              | 2.1.1   |
 | Seven Rivers Regional         | 2.2.1   |
-| Championship                  | 2.3.0   |
+| Archimedes Division (Houston) | 2.3.1   |
 
 ## How do I read this data?
 
@@ -26,4 +26,4 @@ This is raw data from our scouters. The quantitative data has not been modified,
 
 ## Thanks
 
-Thank you to all the scouters who contributed to this data. Our scouters spent countless hours in the stands and collected the vital data.
+Thank you to all the scouters who spent countless hours in the stands contributing to this data.
